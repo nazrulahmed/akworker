@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "717347672529",
+    "project_id": "amarkarigor-f892f",
+    "storage_bucket": "amarkarigor-f892f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717347672529:android:a7e299b43561efcd74d0f0",
+        "android_client_info": {
+          "package_name": "com.amarkarigor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717347672529-3gsqrfn976j5n9rvrqguudlqp29ja397.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMa5ACfuyHA-1YH_U39yXXv8iB7vq_H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717347672529-3gsqrfn976j5n9rvrqguudlqp29ja397.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717347672529-j2eas9cv2pjre2tv77136vh3h03i6lvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.amikarigor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717347672529:android:492851c23b33965b74d0f0",
+        "android_client_info": {
+          "package_name": "com.app.amikarigor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717347672529-3gsqrfn976j5n9rvrqguudlqp29ja397.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMa5ACfuyHA-1YH_U39yXXv8iB7vq_H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717347672529-3gsqrfn976j5n9rvrqguudlqp29ja397.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717347672529-j2eas9cv2pjre2tv77136vh3h03i6lvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.amikarigor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
